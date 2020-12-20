@@ -1,6 +1,19 @@
 # THE-HIDDEN-AI - OPEN SOURCE FREE
 # IT CAN DO WHAT YOU IMAGINE
--------------------------------
-<img src="https://1.bp.blogspot.com/-J9amMBgwjbM/X98sQo13b5I/AAAAAAAAAA8/N4B6IFLZImIkdVscpXYQ4bT6CwayRA01gCLcBGAsYHQ/w945-h600-p-k-no-nu/https___blogs-images.forbes.com_bernardmarr_files_2018_11_AdobeStock_171462504-1200x675.jpeg" width="100" hight="200"></img>
+--------------------------------
+# How Hidden Ai works
+Hidden ai is simple but powerful ai 😲
+This is one the best you can imagine.
+
+# what hidden ai can do ?
+Hidden ai can listen 👂 your voice and react on your questions
+And answers just like other Google assistant and Alexa
+Now hidden ai one more step ahed from this
+Hidden ai can chat with you can also it control things 
+Hidden ai have understanding about its environment
+What's happening around him 
+But ofcourse it will need some sensors and devices to control.
+--------------------------
 # Donate us / contribute
+--------------------------
 
