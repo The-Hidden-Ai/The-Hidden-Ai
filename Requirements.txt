@@ -1,3 +1,13 @@
-python -m pip install SomePackage            # latest version
-python -m pip install SomePackage==1.0.4     # specific version
-python -m pip install 'SomePackage>=1.0.4'     # minimum version
+pip install OpenCV
+pip install matplotlib
+pip install Numpy
+pip install SciPy
+Pip install Scikit-learn
+Pip install Theano
+Pip install TensorFlow
+pip install Keras
+pip install PyTorch
+pip install Pandas
+pip install pyttsx
+pip install NLTK
+pip install Luminoth
