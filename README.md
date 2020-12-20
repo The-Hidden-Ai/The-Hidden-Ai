@@ -23,5 +23,14 @@ But ofcourse it will need some sensors and devices to control.
 6. Wifi
 and etc...
 ------------------------------------
+# Python modules we used
+# OpenCV
+OpenCV is a huge open-source library for computer vision,
+machine learning, and image processing.
+OpenCV supports a wide variety of programming languages like Python, C++, Java, etc. 
+It can process images and videos to identify objects, faces, or even the handwriting of a human.
+
+# 
+--------------------------------------------
 # Donate us / contribute
 --------------------------
