@@ -20,7 +20,8 @@ But ofcourse it will need some sensors and devices to control.
 3. Mic 🎙️
 4. Speaker 🔊
 5. Small computer like rasberry pi
-6. Wifi 
+6. Wifi
+and etc...
 ------------------------------------
 # Donate us / contribute
 --------------------------
