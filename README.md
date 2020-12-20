@@ -25,13 +25,7 @@ and etc...
 ------------------------------------
 # Python modules we used
 # OpenCV
-OpenCV is a huge open-source library for computer vision,
-machine learning, and image processing.
-OpenCV supports a wide variety of programming languages like Python, C++, Java, etc. 
-It can process images and videos to identify objects, faces, or even the handwriting of a human.
 # matplotlib
-Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK+. ... SciPy makes use of Matplotlib.
-
 # Numpy
 # SciPy.
 # Scikit-learn.
@@ -44,6 +38,7 @@ Matplotlib is a plotting library for the Python programming language and its num
 # NLTK
 # Luminoth
 # Flask
+# os
 --------------------------------------------
 # Donate us / contribute
 --------------------------
