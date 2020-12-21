@@ -1,14 +1,27 @@
-#!/use/bin/env python
-import OpenCV
-import matplo
-import Numpy
-pip install SciPy
-Pip install Scikit-learn
-Pip install Theano
-Pip install TensorFlow
-pip install Keras
-pip install PyTorch
-pip install Pandas
-pip install pyttsx
-pip install NLTK
-pip install Luminoth
+import time
+import pyttsx3
+#======================
+#Making The Hidden Ai
+#======================
+#The Hidden Ai
+#1 Speaking
+#2 Listening
+#3 Watching
+#5 Doing
+#==============================================
+#===[Hidden Ai]===
+number = [1,2,3,4,5,6,7,8,9,0]
+alphabet = ["a","b","c","d","e","f","g","h"]
+#===============================================
+creator = "The Hidden Ai " \
+          "Made by Ashutosh kumar gautam"
+#================================================
+#=====[Speaking function]========================
+# initialisation
+engine = pyttsx3.init()
+# Speaking Now...
+engine.say("Welcome My name is Hidden Ai")
+#closing
+engine.runAndWait()
+#finish
+#================================================
