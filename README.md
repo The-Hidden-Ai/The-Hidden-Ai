@@ -10,6 +10,7 @@ This is one the best you can imagine.
 # Speak with you
 # Listen you 
 # Watch and Ai can detect real time object or subject
+# Send Email
 ---------------------------------------------------------------------
 # Hidden Ai sensor and devices used
 1. computer 🖥️ 💻
