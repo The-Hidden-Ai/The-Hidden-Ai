@@ -7,10 +7,10 @@ This is one the best you can imagine.
 
 # what hidden ai can do ?
 ---------------------------------------------------------------------
-Hidden Ai
-Speak with you
-Listen you 
-Watch and Ai can detect real time object or subject
+# Hidden Ai
+# Speak with you
+# Listen you 
+# Watch and Ai can detect real time object or subject
 ---------------------------------------------------------------------
 # Hidden Ai sensor and devices used
 1. computer 🖥️ 💻
