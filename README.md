@@ -1,6 +1,5 @@
-# THE-HIDDEN-AI - OPEN SOURCE FREE
-# IT CAN DO WHAT YOU IMAGINE
---------------------------------
+                                                                   # THE-HIDDEN-AI - OPEN SOURCE FREE
+
 # How Hidden Ai works
 Hidden ai is simple but powerful ai 😲
 This is one the best you can imagine.
