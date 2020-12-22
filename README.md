@@ -13,7 +13,12 @@ Hidden ai can chat with you can also it control things
 Hidden ai have understanding about its environment
 What's happening around him 
 But ofcourse it will need some sensors and devices to control.
-------------------------------------
+---------------------------------------------------------------------
+# Hidden Ai
+# Speak with you
+# Listen you 
+# Watch and Ai can detect real time object or subject
+---------------------------------------------------------------------
 # Hidden Ai sensor and devices used
 1. computer 🖥️ 💻
 2. Webcam and camera 📷 📸 
