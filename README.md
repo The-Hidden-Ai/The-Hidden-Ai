@@ -21,22 +21,6 @@ This is one the best you can imagine.
 6. Wifi
 and etc...
 ------------------------------------
-# Python modules we used
-# OpenCV
-# matplotlib
-# Numpy
-# SciPy.
-# Scikit-learn.
-# Theano.
-# TensorFlow.
-# Keras.
-# PyTorch.
-# Pandas.
-# pyttsx
-# NLTK
-# Luminoth
-# Flask
-# os
 --------------------------------------------
 # Donate us / contribute
 --------------------------
