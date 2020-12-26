@@ -1,7 +1,7 @@
 <h1 align="center">THE HIDDEN AI </h1>
 
 <h3 align="center">The Hidden Ai - Free and Open Source</h3>
-
+<hr>
 # what Hidden Ai can do ?
 ---------------------------------------------------------------------
 # Speak with you
