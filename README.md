@@ -1,5 +1,6 @@
-<h1 align="center">THE-HIDDEN-AI - OPEN SOURCE FREE</h1>
+<h1 align="center">THE-HIDDEN-AI </h1>
 
+<h3 align="center">Hidden Ai - OPEN SOURCE FREE</h3>
 
 # what Hidden Ai can do ?
 ---------------------------------------------------------------------
